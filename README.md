@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Sam 👋
 
-<!--
-**CarrotInPot/CarrotInPot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Software Engineering Student at Auckland University of Technology
 
-Here are some ideas to get you started:
+I'm a passionate and enthusiastic software engineering student at AUT, constantly learning and exploring new technologies in the world of software development and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm currently working on and learning:
+- Microsoft Student Accelerator
+- Unity, C#, Python, R   
+
+## 🏆 Achievements:
+AUT Undergraduate Scholarship 2022
+AUT School Leaver Scholarship 2021
+
+## 🛠️ Skills:
+- Programming Languages: Java, C++, SQL 
+
+## 📫 How to reach me:
+- Email: vidalfan11@gmail.com
+- LinkedIn: linkedin.com/in/samuel-meads/
