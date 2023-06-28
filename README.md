@@ -5,15 +5,16 @@
 - I'm a passionate and enthusiastic software engineering student at AUT, constantly learning and exploring new technologies in the world of software development and data science.
 
 ## 🌱 I'm currently working on and learning:
-- Microsoft Student Accelerator
+- Web Development 
 - Unity, C#, Python, R   
 
 ## 🏆 Achievements:
 - AUT Undergraduate Scholarship 2022
 - AUT School Leaver Scholarship 2021
+- TLC Inspiring Local Minds Scholarship 2020
 
 ## 🛠️ Skills:
-- Programming Languages: Java, C++, SQL 
+- Programming Languages: Java, C++, SQL
 
 ## 📫 How to reach me:
 - Email: vidalfan11@gmail.com
