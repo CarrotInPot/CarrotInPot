@@ -5,9 +5,8 @@
 - I'm a passionate and enthusiastic software engineering student at AUT, constantly learning and exploring new technologies in the world of software development and data science.
 
 ## 🌱 I'm currently working on and learning:
-- Web Development - MERN Stack
-- Xv6
-- Text clasification using Python  
+- WiFi Security Analysis Project
+- Data Mining & Machine Learning
 
 ## 🏆 Achievements:
 - AUT Undergraduate Scholarship 2022
@@ -15,7 +14,7 @@
 - TLC Inspiring Local Minds Scholarship 2020
 
 ## 🛠️ Skills:
-- Programming Languages: Java, C++, SQL, C#, R, Python
+- Programming Languages: Java, C++, SQL, C#, R, Python, Typescript
 
 ## 📫 How to reach me:
 - Email: vidalfan11@gmail.com
