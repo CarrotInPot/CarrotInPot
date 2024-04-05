@@ -5,7 +5,7 @@
 - I'm a passionate and enthusiastic software engineering student at AUT, constantly learning and exploring new technologies in the world of software development and data science.
 
 ## 🌱 I'm currently working on and learning:
-- WiFi Security Analysis Project
+- WiFi Security Analysis Project (Final Year Project)
 - Data Mining & Machine Learning
 
 ## 🏆 Achievements:
