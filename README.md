@@ -15,6 +15,8 @@
 
 ## 🛠️ Skills:
 - Programming Languages: Java, C++, SQL, C#, R, Python, Typescript
+- Frameworks: React.js, Node.js, Jest
+-	Developer Tools: Git, VS Code, Jupyter Notebook, RStudio, Jira 
 
 ## 📫 How to reach me:
 - Email: vidalfan11@gmail.com
