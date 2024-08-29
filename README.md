@@ -9,8 +9,10 @@
 - WiFi Security Analysis Project (Final Year Project)
 
 This project focuses on the comprehensive analysis of Wi-Fi security practices in various urban environments, including Central Business District (CBD), Office, and Residential areas. Utilizing advanced open-source tools, particularly Kismet, we conducted extensive war-walking field trials to collect detailed data on WLAN security. The project aims to identify common vulnerabilities, such as outdated encryption protocols and weak passwords, and recommend best practices to enhance Wi-Fi security. Key activities include data collection, cleaning, and analysis using Python, as well as the development of a proof-of-concept system to demonstrate an effective security framework. By providing actionable insights and practical solutions, this project contributes to improving WLAN security in real-world settings.
-- Data Mining & Machine Learning
 
+- Embedded Software Engineering - Developing software for embedded systems using a Raspberry Pi microcontroller with Linux OS and Python
+- Software Architecture
+  
 ## 🏆 Achievements:
 - AUT Undergraduate Scholarship 2022
 - AUT School Leaver Scholarship 2021
