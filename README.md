@@ -3,7 +3,7 @@
 ## 🎓 Software Engineering Student at Auckland University of Technology
 
 - I'm a passionate and enthusiastic software engineering student at AUT, constantly learning and exploring new technologies in the world of software development and data science.
-- I'm currently open to Summer Internship opportunities and would love to hear from you if you know of any roles that might be a good fit. 😊
+- I'm currently open to Software Engineering opportunities and would love to hear from you if you know of any roles that might be a good fit. 😊
 
 ## 🌱 I'm currently working on and learning:
 - WiFi Security Analysis Project (Final Year Project)
