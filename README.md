@@ -10,7 +10,10 @@
 
 This project focuses on the comprehensive analysis of Wi-Fi security practices in various urban environments, including Central Business District (CBD), Office, and Residential areas. Utilizing advanced open-source tools, particularly Kismet, we conducted extensive war-walking field trials to collect detailed data on WLAN security. The project aims to identify common vulnerabilities, such as outdated encryption protocols and weak passwords, and recommend best practices to enhance Wi-Fi security. Key activities include data collection, cleaning, and analysis using Python, as well as the development of a proof-of-concept system to demonstrate an effective security framework. By providing actionable insights and practical solutions, this project contributes to improving WLAN security in real-world settings.
 
-- Embedded Software Engineering - Developing a License Playe Recognition software for embedded systems using a Raspberry Pi microcontroller with Linux OS and Python
+- Embedded Software Engineering - Developing a License Plate Recognition System
+  
+Developing a License Plate Recognition (LPR) software for embedded systems using a Raspberry Pi microcontroller running Raspberry Pi OS (Linux). The software, written in Python, will utilize a camera, OpenCV, and OpenALPR to capture number plates. The scanned plate numbers will be stored in an SQLite database local to the Raspberry Pi, which will be integrated into the backend of a LAMP Stack. Additionally, multithreading will be employed in the Python program to ensure the capture and storage processes run concurrently without blocking each other.
+
 - Software Architecture 
   
 ## 🏆 Achievements:
