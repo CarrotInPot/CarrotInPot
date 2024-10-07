@@ -14,17 +14,23 @@ This project focuses on the comprehensive analysis of Wi-Fi security practices i
   
 Developing a License Plate Recognition (LPR) software for embedded systems using a Raspberry Pi microcontroller running Raspberry Pi OS (Linux). The software, written in Python, will utilize a camera, OpenCV, and OpenALPR to capture number plates. The scanned plate numbers will be stored in an SQLite database local to the Raspberry Pi, which will be integrated into the backend of a LAMP Stack. Additionally, multithreading will be employed in the Python program to ensure the capture and storage processes run concurrently without blocking each other.
 
-- Software Architecture 
-  
+- Software Architecture
+
+## ✨ Extra-Curriculars:
+- General Executive - Computer Science and Engineering Association (AUT) 
+
+Collaborate in event planning and execution, supported fellow executives, and led word-of-mouth promotion,
+demonstrating strong time management, reliability, and effective communication to drive the association’s success.
+
 ## 🏆 Achievements:
 - AUT Undergraduate Scholarship 2022
 - AUT School Leaver Scholarship 2021
 - TLC Inspiring Local Minds Scholarship 2020
 
 ## 🛠️ Skills:
-- Programming Languages: Java, C++, SQL, C#, R, Python, Typescript
-- Frameworks: React.js, Node.js, Jest
--	Developer Tools: Git, VS Code, Jupyter Notebook, RStudio, Jira 
+- Programming Languages: Java, C++, SQL, C#, R, Python, Javascript, HTML/CSS, Typescript
+- Frameworks: React.js, Node.js, Jest, .NET
+-	Developer Tools: Git, VS Code, Jupyter Notebook, RStudio, Jira, Visual Studio, Eclipse, NetBeans
 
 ## 📫 How to reach me:
 - Email: vidalfan11@gmail.com
