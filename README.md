@@ -2,12 +2,13 @@
 <h3>A Graduate Software Engineer from New Zealand</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carrotinpot&show_icons=true&locale=en&layout=compact&theme=dark&v=1" alt="carrotinpot" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carrotinpot&show_icons=true&locale=en&layout=compact&theme=dark&v=2" alt="carrotinpot" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=carrotinpot&show_icons=true&locale=en&theme=dark" alt="carrotinpot" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carrotinpot&show_icons=true&locale=en&theme=dark&v=2" alt="carrotinpot" />
 </p>
+
 
 ## 🛠️ Languages and Tools:
 
