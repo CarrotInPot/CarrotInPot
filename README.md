@@ -1,11 +1,11 @@
-<h1 align="center">Hi there👋, I'm Sam</h1>
-<h3 align="center">A Graduate Software Engineer from New Zealand</h3>
+<h1>Hi there👋, I'm Sam</h1>
+<h3>A Graduate Software Engineer from New Zealand</h3>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carrotinpot&show_icons=true&locale=en&layout=compact&v=1" alt="carrotinpot" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=carrotinpot&show_icons=true&locale=en" alt="carrotinpot" />
 </p>
 
