@@ -2,7 +2,7 @@
 <h3>A Graduate Software Engineer from New Zealand</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carrotinpot&show_icons=true&locale=en&layout=compact&theme=dark&v=2" alt="carrotinpot" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carrotinpot&show_icons=true&locale=en&layout=compact&theme=dark&v=3" alt="carrotinpot" />
 </p>
 
 <p>
