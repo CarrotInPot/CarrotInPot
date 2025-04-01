@@ -1,5 +1,5 @@
 <h1>Hi there👋, I'm Sam</h1>
-<h3>A Graduate Software Engineer from New Zealand</h3>
+<h3>A Graduate Software Engineer from New Zealand 🇳🇿</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carrotinpot&show_icons=true&locale=en&layout=compact&theme=dark&v=2" alt="Top Langs" height="165"/>
